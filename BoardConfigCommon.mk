@@ -62,9 +62,6 @@ DEVICE_MATRIX_FILE := hardware/qcom-caf/common/compatibility_matrix.xml
 # LMKD
 TARGET_LMKD_STATS_LOG := true
 
-# Media
-TARGET_USES_ION := true
-
 # Partitions
 AB_OTA_UPDATER := false
 
